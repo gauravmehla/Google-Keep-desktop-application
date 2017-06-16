@@ -1,7 +1,9 @@
 ![Google Keep](http://i.imgur.com/IQ5bxIU.png)
 
 # 📝 Google Keep Application
-This is an Google Keep application for MACOSX. Click [here](https://www.mehla.in/apps/google-keep.dmg) to download.
+This is an Google Keep application for MACOSX. Using this you can access google keep right under from Applications or Launchpad. 
+
+Click [ ⬇️  here](https://www.mehla.in/apps/google-keep.dmg) to download.
 
 ## What is this a thing?
 
