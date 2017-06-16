@@ -27,6 +27,8 @@ After downloading this application if you get some error like this :
   ```
 Please follow [this link](https://support.apple.com/kb/PH25087?locale=en_US&viewlocale=en_US) to resolve that error.
 
+**NOTE** : _This error occurs because this application is not on Apple Store._
+
 # Licence
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
