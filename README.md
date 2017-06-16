@@ -2,6 +2,8 @@
 
 # 📝 Google Keep
 This is an Google Keep application for MACOSX. Click [here](https://www.mehla.in/apps/google-keep.dmg) to download.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## What is this a thing?
 
