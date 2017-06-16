@@ -5,7 +5,7 @@ This is an Google Keep application for MACOSX. Using this you can access google 
 
 Click [ ⬇️  here](https://www.mehla.in/apps/google-keep.dmg) to download.
 
-## What is this a thing?
+## What is this thing?
 
 Google Keep is a note-taking service developed by Google. As people love to keep applications instead of browsing that site online. So i build this application using [nativefier](https://github.com/jiahaog/nativefier).
 
