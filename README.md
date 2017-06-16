@@ -1,9 +1,11 @@
 ![Google Keep](http://i.imgur.com/IQ5bxIU.png)
 
 # 📝 Google Keep Application
-This is an Google Keep application for MACOSX. Click [here](https://www.mehla.in/apps/google-keep.dmg) to download.
+This is an Google Keep application for MACOSX. Using this you can access google keep right under from Applications or Launchpad. 
 
-## What is this a thing?
+Click [ ⬇️  here](https://www.mehla.in/apps/google-keep.dmg) to download.
+
+## What is this thing?
 
 Google Keep is a note-taking service developed by Google. As people love to keep applications instead of browsing that site online. So i build this application using [nativefier](https://github.com/jiahaog/nativefier).
 
@@ -26,6 +28,8 @@ After downloading this application if you get some error like this :
   “Google Keep” can’t be opened because it is from an unidentified developer
   ```
 Please follow [this link](https://support.apple.com/kb/PH25087?locale=en_US&viewlocale=en_US) to resolve that error.
+
+**NOTE** : _This error occurs because this application is not on Apple Store._
 
 # Licence
 
