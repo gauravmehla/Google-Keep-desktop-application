@@ -2,8 +2,6 @@
 
 # 📝 Google Keep
 This is an Google Keep application for MACOSX. Click [here](https://www.mehla.in/apps/google-keep.dmg) to download.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 ## What is this a thing?
 
@@ -16,3 +14,8 @@ Google Keep is a note-taking service developed by Google. As people love to keep
 - Double click on the downloaded file to open the image file.
 - Drag and drop the application to `Application` folder.
 - Enjoy 💫
+
+# Licence
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
