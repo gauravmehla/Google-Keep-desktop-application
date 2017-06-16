@@ -15,8 +15,17 @@ Google Keep is a note-taking service developed by Google. As people love to keep
 - Drag and drop the application to `Application` folder.
 - Enjoy 💫
 
+
 ## Requirements
 - OS X Yosemite or higher.
+
+
+## ⚠️ Information
+After downloading this application if you get some error like this : 
+  ```
+  “Google Keep” can’t be opened because it is from an unidentified developer
+  ```
+Please follow [this link](https://support.apple.com/kb/PH25087?locale=en_US&viewlocale=en_US) to resolve that error.
 
 # Licence
 
